@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Positioning Practice</title>
+</head>
+<body>
+    <header class="main-header">
+        <div class="container">
+            <div class="navigation">
+                <ul>
+                    <li>Home</li>
+                    <li>About us</li>
+                    <li>Services</li>
+                    <li>Partners</li>
+                    <li>Contact us</li>
+                </ul>
+            </div>
+        </div>
+    </header>
 
-You can use the [editor on GitHub](https://github.com/kdf-git/coursera_assignments/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+    <div class="second-haeder">
+        <div class="inner-menu">
+                <ul class="navigation-ul">
+                    <a href=""><li>Home</li></a>
+                    <a href=""><li>Work Environment</li></a>
+                    <a href=""><li>Service Area</li></a>
+                    <a href=""><li>My work</li></a>
+                    <a href=""><li>Contact us</li></a>
+                </ul>
+        </div>
+    </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+    <div class="third-haeder">
+        <div class="inner-menu3">
+                <ul class="navigation-ul3">
+                    <a href=""><li>Home</li></a>
+                    <a href=""><li>Work Environment</li></a>
+                    <a href=""><li>Service Area</li></a>
+                    <a href=""><li>My work</li></a>
+                    <a href=""><li>Contact us</li></a>
+                </ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+                <div class="image-list-container"></div>
+                <ul class="image-list">
+                    <li class="">
+                        <a href=""><img src="" alt=""></a>
+                    </li>
+                </ul>
 
-```markdown
-Syntax highlighted code block
+        </div>
+    </div>
 
-# Header 1
-## Header 2
-### Header 3
+    <div class="fourth-haeder">
+        <div class="fourth-inner-menu">
+                <ul class="fourth-navigation-ul">
+                    <a href=""><li>Home</li></a>
+                    <a href=""><li>Work Environment</li></a>
+                    <a href=""><li>Service Area</li></a>
+                    <a href=""><li>My work</li></a>
+                    <a href=""><li>Contact us</li></a>
+                </ul>
+        </div>
+    </div>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+    <div class="box-1">
+        <h1 class="heading1">
+            Contact Me!
+        </h1>
+    </div>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kdf-git/coursera_assignments/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
